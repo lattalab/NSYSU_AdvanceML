@@ -1,0 +1,10 @@
+For Question 1:
+	we trained 3 different models (RNN, LSTM, GRU) and each model is written in 3 different .ipynb files (HW3-1_RNN.ipynb, HW3-1_LSTM.ipynb, HW3-1_GRU.ipynb).
+	HW3-1_comparision.ipynb is the file that discussing the prediction result on HW2_MNIST dataset.
+
+For Question 2:
+	1. Deciding the dictionary content and show its size.
+	2. Show top-10 of words.
+	3. Show word cloud
+	4. Use 2 types of RNN model to do the sentimental classification task. (RNN and LSTM used in this homework)
+	5. We select LSTM to do the word prediction task.

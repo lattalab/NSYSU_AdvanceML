@@ -1,0 +1,7 @@
+path: /content/tomatod-DatasetNinja/
+
+train: Train/images
+val: Test/images
+
+nc: 3
+names: ['unripe', 'semi-ripe', 'fully-ripe']

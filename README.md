@@ -27,4 +27,12 @@ Instructor: 張雲南 (Yun-Nan Chang)
     Here, also implemented the RAG(Retrival-Augmented Generation), but not necessary in this homework.
     5. Perform `Image-Text Matching` task with `BLIP`.
   
-  If you don't want to download a large amount of model parameter, you can use `google colab` to run the file, as I do in HW4_4.ipynb and HW4_5.ipynb .
+    If you don't want to download a large amount of model parameter, you can use `google colab` to run the file, as I do in HW4_4.ipynb and HW4_5.ipynb .
+* HW5  
+    * Dataset: MNIST、Fashion-MNIST  
+
+  Learn `Anomaly Detection`, `Auto-encoder` and `GAN` from the question set.  
+  * Key of Anomaly Detection: you need to determine threshold to justify `Normal` and `Abnormal` data.
+  * By compared with `VAE` and `Auto-Encoder`, you may know more about `KL-divergence`.
+  * In theoretically, train difficulty may be sorted by `WGAN-GP > WGAN > GAN`.   
+  However, I got the best result with `GAN`, it may due randomized-generated data.

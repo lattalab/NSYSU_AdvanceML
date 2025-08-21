@@ -34,5 +34,5 @@ Instructor: 張雲南 (Yun-Nan Chang)
   Learn `Anomaly Detection`, `Auto-encoder` and `GAN` from the question set.  
   * Key of Anomaly Detection: you need to determine threshold to justify `Normal` and `Abnormal` data.
   * By compared with `VAE` and `Auto-Encoder`, you may know more about `KL-divergence`.
-  * In theoretically, train difficulty may be sorted by `WGAN-GP > WGAN > GAN`.   
+  * Theoretically, the training stability can be ranked as `GAN < WGAN < WGAN-GP`.  
   However, I got the best result with `GAN`, it may due randomized-generated data.
